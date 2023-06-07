@@ -32,11 +32,13 @@ jobs:
         uses: actions/setup-node@v3.4.1
         with:
           node-version: '20'
-      - name: clean node module
+      - name: clean all
         run: | 
           rm -rf node_modules
           rm -rf out
+          rm -rf docs
           mkdir -p out
+          mkdir -p docs
       - name: npm install
         run: |
           npm install
