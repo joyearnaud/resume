@@ -31,4 +31,4 @@ jobs:
       - name: npm install
         run: npm install -g hackmyresume jsonresume-theme-even
       - name: hackmyresume
-        run: npx hackmyresume build resume-full.json TO out/resume.all -t node_modules/jsonresume-theme-even
+        run: npm hackmyresume build resume-full.json TO out/resume.all -t node_modules/jsonresume-theme-even
