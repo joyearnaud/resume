@@ -1,0 +1,617 @@
+basics:
+  name: 'Arnaud JOYE'
+  label: SOAT
+  image: 'https://avatars.githubusercontent.com/u/2255033?v=4'
+  email: ""
+  phone: ""
+  url: 'https://cv.arnaudjoye.fr'
+  summary: 'Ingénieur logiciel avec une expérience pratique approfondie dans tous les niveaux de test, je me plais à développer des applications sur tout support ainsi qu''à concevoir des API. Utilisateur convaincu de l''agilité et de "clean architecture" avec un intérêt récent pour les possibilités de Kubernetes.'
+  profiles:
+    -
+      network: GitHub
+      username: joyearnaud
+      url: 'https://github.com/joyearnaud'
+    -
+      network: LinkedIn
+      url: 'https://www.linkedin.com/in/arnaud-joye/'
+      username: arnaud-joye
+  headline: ""
+  blog: 'https://cv.arnaudjoye.fr/thought'
+  yearsOfExperience: 9
+  username: joyearnaud
+  locationAsString: Paris
+  region: Paris
+  karma: 11
+  id: b7b33465-36a3-4728-b354-0714a91bb68c
+  followers: 2
+  following: 4
+  picture: 'https://avatars.githubusercontent.com/u/2255033?v=4'
+  website: 'https://cv.arnaudjoye.fr'
+skills:
+  -
+    name: Java
+    level: Advanced
+    keywords:
+      - Java11
+      - Kotlin
+      - Spring
+      - Quarkus
+    rating: 4
+    yearsOfExperience: 8
+  -
+    name: Javascript
+    level: Advanced
+    keywords: []
+    rating: 4
+    yearsOfExperience: 8
+projects:
+  -
+    name: wa-batch-DateTimeOriginal
+    isCurrentRole: true
+    description: 'Developed a batch processing application to efficiently manage and manipulate large volumes of date-time data. The application specifically targets the issue of lost EXIF DateTimeOriginal data during Whatsapp image restoration, ensuring the proper display of images by their original date in viewing tools.'
+    url: 'https://github.com/joyearnaud/wa-batch-DateTimeOriginal'
+    highlights:
+      - 'Designed and implemented core functionality, including the extraction of date and time information from filenames and injection into EXIF as DateTimeOriginal'
+      - 'Optimized the application for handling and processing large volumes of data'
+      - 'Worked primarily with TypeScript and JavaScript for development'
+      - 'Ensured the application is capable of handling specific file naming conventions and formats'
+    keywords:
+      - TypeScript
+      - JavaScript
+      - 'Data Processing'
+      - 'Batch Processing'
+      - 'EXIF Data'
+      - 'Image Processing'
+    roles:
+      - 'Lead Developer'
+    startDate: '2022-12-25'
+    endDate: ""
+    entity: 'Personal Project'
+    type: 'Application Development'
+    displayName: wa-batch-DateTimeOriginal
+    website: 'https://github.com/joyearnaud/wa-batch-DateTimeOriginal'
+    summary: 'The wa-batch-DateTimeOriginal is a TypeScript-based batch processing application specifically designed to handle large volumes of date-time data. As the lead developer, I was responsible for designing and implementing the core functionality, as well as optimizing the application for performance and scalability.'
+    primaryLanguage: TypeScript
+    languages:
+      - JavaScript
+      - TypeScript
+    libraries: []
+    githubUrl: 'https://github.com/joyearnaud/wa-batch-DateTimeOriginal'
+    repositoryUrl: 'https://github.com/joyearnaud/wa-batch-DateTimeOriginal'
+    start:
+      year: 2022
+      month: 12
+      day: 25
+    end: {}
+    images: []
+    videos: []
+  -
+    name: hominem
+    isCurrentRole: true
+    description: 'Hominem is a Gridsome-based, minimalistic blog platform showcasing a clean and user-friendly design. The web application is responsive and maintains high code quality standards, with an emphasis on user experience.'
+    url: 'https://hominem.vercel.app'
+    highlights:
+      - 'Developed a responsive, user-centric web application using Gridsome, a Vue.js-based static site generator for building fast, optimized websites.'
+      - 'Implemented and maintained high code quality standards, including the use of linters and code formatting tools.'
+      - 'Integrated Docker for web serving, enhancing the project''s deployment capabilities.'
+      - 'Incorporated advanced features such as internationalization and a commenting system using Vssue.'
+    keywords:
+      - Vue
+      - JavaScript
+      - Dockerfile
+      - HTML
+      - Gridsome
+      - Vssue
+    roles:
+      - 'Lead Developer'
+    startDate: '2021-01-01'
+    endDate: '2022-12-31'
+    entity: 'Personal Project'
+    type: 'Web Application Development'
+    displayName: hominem
+    website: 'https://hominem.vercel.app'
+    summary: 'Hominem is a user-centric web application built using cutting-edge web technologies such as Vue.js and Gridsome. The project demonstrates my advanced skills in web application development, my commitment to delivering high-quality, user-focused products, and my ability to integrate modern tools and practices such as Docker and Vssue into my workflow.'
+    primaryLanguage: Vue
+    languages:
+      - Dockerfile
+      - Vue
+      - JavaScript
+      - HTML
+    libraries:
+      - Gridsome
+      - Vssue
+    githubUrl: 'https://github.com/joyearnaud/hominem'
+    repositoryUrl: 'https://github.com/joyearnaud/hominem'
+    start:
+      year: 2021
+      month: 1
+      day: 1
+    end:
+      year: 2022
+      month: 12
+      day: 31
+    images: []
+    videos: []
+  -
+    name: OCRmyDIR
+    isCurrentRole: true
+    description: 'An early-stage project potentially involving optical character recognition (OCR) technology.'
+    url: 'https://github.com/joyearnaud/OCRmyDIR'
+    highlights:
+      - 'Initial development stage'
+      - 'Possibly involves OCR technology'
+    keywords:
+      - 'Early Stage'
+      - OCR
+    roles:
+      - 'Project Initiator'
+    startDate: '2022-12-15'
+    endDate: ""
+    entity: 'Personal Project'
+    type: 'Software Development'
+    displayName: OCRmyDIR
+    website: 'https://github.com/joyearnaud/OCRmyDIR'
+    summary: 'OCRmyDIR is a project at its initial development stage. The project potentially involves the application of OCR technology, though further details are currently not available as it is still in the early stages of development.'
+    primaryLanguage: Unknown
+    languages:
+      - Unknown
+    libraries: []
+    githubUrl: 'https://github.com/joyearnaud/OCRmyDIR'
+    repositoryUrl: 'https://github.com/joyearnaud/OCRmyDIR'
+    start:
+      year: 2022
+      month: 12
+      day: 15
+    end: {}
+    images: []
+    videos: []
+work:
+  -
+    name: 'SCIPOVO® - Startup Technology Company & Innovative Service Development'
+    isCurrentRole: true
+    company: SCIPOVO®
+    position: 'Founder and Lead Software Developer'
+    website: 'https://cv.arnaudjoye.fr/experience/startup-technology-company-innovative-service-development'
+    startDate: '2022-10-09'
+    endDate: ""
+    summary: "##### Co-founded a technology startup focused on innovative service development\n\nLaunching two major projects: \n\n1. **Diet Management Service**: Targeted the European market. Led the development of a diet management application utilizing Open Food Facts data. The project commenced successfully but is currently on hiatus for additional industry regulation research and development resource acquisition.\n\n2. **B2B Tourism Time Slot Booking Service**: Aimed at the Central American market. Designed and developed a B2B tourism time slot booking service to assist business owners in maximizing utilization and boosting revenue by making their services accessible to freelancers."
+    highlights:
+      - 'Strategically designed application architecture, optimizing costs and enhancing scalability for future growth'
+      - 'Spearheaded the development of robust backends and user-friendly frontends, enhancing overall system efficiency'
+      - 'Integrated data from Open Food Facts, enabling comprehensive diet management features'
+      - 'Championed API-centric application design to ensure optimal interoperability and flexibility'
+      - 'Adopted a product-centric approach, focusing on value delivery and customer satisfaction'
+      - 'Established and nurtured strategic partnerships with business owners and freelancers, expanding business reach and opportunities'
+    keywords:
+      - 'Project Management'
+      - 'Strategic Planning'
+      - 'Team Coordination'
+      - 'Progress Monitoring'
+      - Problem-Solving
+      - Leadership
+      - Java
+      - 'Java 17'
+      - Quarkus
+      - Kafka
+      - 'Docker Compose'
+      - PostgreSQL
+      - 'Hibernate Panache'
+      - Maven
+      - JUnit5
+      - Mockito
+      - JavaScript
+      - 'ECMAScript 2022 (ES13)'
+      - 'Vue 3'
+      - TypeScript
+      - Node.js
+      - NPM
+      - Jest
+      - Dart
+      - 'Flutter 3'
+      - 'Cross-platform Web MacOS Windows Android iOS'
+      - 'API Management'
+      - REST
+      - OpenAPI
+      - Microservices
+      - ArchiMate/Mermaid
+      - 'Domain-Driven Design'
+      - 'Service-Oriented Architecture'
+      - DevOps
+      - CI/CD
+      - Automation
+      - 'GitHub Actions'
+      - 'Infrastructure as Code'
+      - Monitoring
+      - Containerization
+  -
+    name: 'OODRIVE - Connect'
+    company: OODRIVE
+    location: Paris
+    description: 'Software Architecture & API Management'
+    position: 'Software Architect'
+    url: 'https://www.oodrive.com'
+    startDate: '2021-09-01'
+    endDate: '2022-09-01'
+    summary: "##### Support in the Architecture Repository & API management\n\nAs an integral part of Oodrive's architecture board, I acquired valuable insights into Domain-Driven Design (DDD) and Service-Oriented Architecture (SOA) through the Archimate platform. This facilitated our move towards a more streamlined microservices architecture.\n\nMy role encompassed leading the development of our new API policy with a focus on REST. Our team were responsible for creating a best practices guide to align with project needs, and ensured OpenAPI usage was consistent across teams. We identified and provided efficient software and hardware solutions to enhance the use and distribution of these APIs. As part of the transition process, our team was involved in offering practical migration solutions for these new systems."
+    highlights:
+      - 'Successfully mapped and analyzed the existing technical and business infrastructure to align it with new strategic objectives'
+      - 'Initiated and implemented API best practices, conducting comprehensive workshops to train and equip teams with up-to-date knowledge'
+      - 'Conducted extensive POCs and benchmarks, evaluating potential API Management solutions for their cost-effectiveness and performance, to guide strategic decision-making'
+    keywords:
+      - ArchiMate
+      - UML
+      - BPMN
+      - Archi
+      - Container
+      - Docker
+      - Compose
+      - Kubernetes
+      - 'API Management'
+      - Kong
+      - KrakenD
+      - 'Gloo Edge'
+      - Gravitee
+      - DevOps
+      - GitFlow
+      - 'Gitlab CI'
+      - Postman
+      - JMeter
+    start:
+      year: 2021
+      month: 9
+    end:
+      year: 2022
+      month: 9
+    website: 'https://www.oodrive.com'
+  -
+    name: 'OODRIVE - Arrimage à la production'
+    company: OODRIVE
+    location: Paris
+    description: ""
+    position: 'Software Development Engineer'
+    url: 'https://www.oodrive.com'
+    startDate: '2020-10-01'
+    endDate: '2021-09-01'
+    summary: "##### Realization of a rule engine & Zuora/Salesforce connector\n\nDrove the design and implementation of an automated rule engine, integrating Easy Rules and Spring Boot, to optimize process workflows. This initiative led to a tailored and efficient approach for implementing new processes between production and off-the-shelf Zuora/Salesforce solutions. My focus was on enhancing automated processes for upgrade (or upsale) validation by the billing department, significantly improving operational efficiency."
+    highlights:
+      - 'Started the implementation of a technical base (rule engine), enhancing process automation'
+      - 'Designed robust APIs for enhanced interoperability'
+      - 'Authored comprehensive functional and technical requirements, improving project clarity and execution'
+      - 'Conducted unit, integration, and end-to-end functional tests to ensure software reliability and performance'
+      - 'Compiled detailed documentation to provide clear guidance and facilitate ongoing project support'
+      - 'Led project animation, fostering collaboration and ensuring project progression'
+    keywords:
+      - Java
+      - 'Java 11'
+      - 'Spring Boot'
+      - Maven
+      - JUnit
+      - SOA
+      - Immutables
+      - Craftsmanship
+      - TDD
+      - Refactoring
+      - 'Project Management'
+      - JIRA
+      - Kanban
+      - SQL
+      - PostgresSQL
+      - DevOps
+      - GitFlow
+      - Jenkins
+      - Nexus
+    start:
+      year: 2020
+      month: 10
+    end:
+      year: 2021
+      month: 9
+    website: 'https://www.oodrive.com'
+  -
+    name: 'OODRIVE - HERMES'
+    company: OODRIVE
+    location: Paris
+    description: ""
+    position: 'Software Development Engineer'
+    url: ' https://www.oodrive.com'
+    startDate: '2020-01-01'
+    endDate: '2021-09-01'
+    summary: "##### Migration from an in-house billing system to an off-the-shelf solution\n\nUndertook a strategic initiative to transition from an in-house billing system to a streamlined off-the-shelf solution, Zuora. We conducted comprehensive workshops to understand the integration of legacy internal processes with operational and selected shelf solutions. This process culminated in the development of a custom connector and automation enhancements. Throughout this transition, I contributed to the provision of a containerized technical platform, reinforcing our system's scalability and efficiency."
+    highlights:
+      - 'Formulated detailed functional and technical requirements, clarifying project scope and objectives'
+      - 'Created extensive documentation to provide clear instructions and support for ongoing projects'
+      - 'Drove project animation, facilitating collaboration and alignment with project goals'
+      - 'Implemented a robust technical platform, bolstering our system architecture'
+      - 'Designed comprehensive APIs, improving system integration and interoperability'
+      - 'Performed unit and integration testing, ensuring system reliability and performance'
+    keywords:
+      - Kotlin
+      - Arrow-kt
+      - 'Spring Boot'
+      - Maven
+      - JUnit
+      - AssertJ
+      - Testcontainers
+      - Container
+      - Docker
+      - Compose
+      - Craftsmanship
+      - TDD
+      - 'Pair programming'
+      - 'Code Review'
+      - 'Project Management'
+      - 'Atelier métier'
+      - SQL
+      - PostgresSQL
+      - Liquibase
+      - HikariCP
+      - 'JetBrain Exposed'
+      - DevOps
+      - GitFlow
+    start:
+      year: 2020
+      month: 1
+    end:
+      year: 2021
+      month: 9
+    website: ' https://www.oodrive.com'
+  -
+    name: 'Société Générale BDDF - Entrée en relation personne morale (ERPM) pour le Crédit du Nord'
+    company: 'Société Générale BDDF / Crédit du Nord'
+    location: Paris
+    description: ""
+    position: 'Full Stack Engineer'
+    url: 'https://www.credit-du-nord.fr/'
+    startDate: '2017-03-01'
+    endDate: '2020-01-01'
+    summary: "##### Implementation of the ERPM application\n\nLed the development of a multi-platform ERPM application for Crédit du Nord's Digital Agency, aiming to optimize customer acquisition through professional advisors. This robust application, engineered to be compatible across desktop, web, and tablet platforms, represented a technological leap in customer relationship management. The ERPM application interfaced efficiently with the central system using a comprehensive suite of services within a Service-Oriented Architecture (SOA). We seamlessly integrated advanced features such as API-driven data interchange and platform-agnostic functionalities to ensure optimal performance. The successful implementation of this application significantly streamlined client acquisition processes, effectively boosting the agency's customer base and operational efficiency."
+    highlights:
+      - 'Guidance on technology selection and architectural design'
+      - 'Incorporated Code Review, Test-Driven Development (TDD) and Pair Programming practices to enhance code quality'
+      - 'Constructed REST APIs for Back For Front (BFF) operations'
+      - 'Integrated continuous deployment and delivery tools (Maven, Git, Jenkins, Nexus, Alien4Cloud, EKL stack)'
+      - 'Established a thorough testing suite encompassing unit tests, integration tests, and functional tests'
+      - 'Oversaw corrective and adaptive maintenance'
+      - 'Animating events of the complete Scrum lifecycle'
+    keywords:
+      - Java
+      - 'Java 1.8'
+      - 'Spring Boot'
+      - REST
+      - JAXRS
+      - SOAP
+      - JAXWS
+      - JPA
+      - Hibernate
+      - 'Jboss Wildfly'
+      - Maven
+      - JUnit
+      - SOA
+      - Hystrix
+      - Tanit
+      - 'CICS Connectors'
+      - JavaScript
+      - AngularJS
+      - ES6
+      - Webpack
+      - Node.JS
+      - NPM
+      - Karma
+      - Jasmine
+      - TypeScript
+      - 'Angular 2'
+      - Craftsmanship
+      - TDD
+      - 'Pair programming'
+      - 'Code Review'
+      - Refactoring
+      - 'Integration Testing'
+      - 'Functional Testing'
+      - Cucumber
+      - Selenium
+      - 'Project Management'
+      - JIRA
+      - Scrum
+      - SQL
+      - PostgresSQL
+      - DevOps
+      - Ant
+      - GitFlow
+      - Postman
+      - Jenkins
+      - Nexus
+      - 'IBM API Connect'
+    start:
+      year: 2017
+      month: 3
+    end:
+      year: 2020
+      month: 1
+    website: 'https://www.credit-du-nord.fr/'
+  -
+    name: 'Mairie de Paris - Equipe transverse à la DSIN'
+    company: 'Mairie de Paris'
+    url: 'https://www.paris.fr/'
+    position: 'Lead Developer'
+    startDate: '2016-12-01'
+    endDate: '2017-03-03'
+    summary: "##### Team Training & Best Practices Implementation\n\nDirected the transformation of a municipal management application, previously handled by an other team. In a collaborative effort with the business analysts, we overhauled the application's requirements and introduced a Kanban board for project tracking, facilitating greater transparency and efficiency. A crucial part of this process was the refactoring of the application based on code reviews and analysis. This, combined with a strong emphasis on pair programming, significantly elevated the skills and autonomy of team members, fostering a culture of continuous improvement and collective ownership."
+    highlights:
+      - 'Realigned project objectives for optimal performance'
+      - 'Automated code review process to ensure high-quality code'
+      - 'Implemented robust CI/CD pipelines for efficient development cycles'
+      - 'Enhanced team skills and autonomy through focused training and pair programming'
+      - 'Integrated Agile Kanban practices for streamlined project management'
+    keywords:
+      - 'Java 1.8'
+      - 'Spring Boot'
+      - 'REST / JAXRS'
+      - 'SOAP / JAXWS'
+      - JPA
+      - Hibernate
+      - Tomcat
+      - Maven
+      - JUnit
+      - SOA
+      - JavaScript
+      - ES6
+      - Webpack
+      - Node.JS
+      - NPM
+      - 'Karma / Jasmine'
+      - Craftsmanship
+      - TDD
+      - 'Pair programming'
+      - 'Code Review'
+      - Refactoring
+      - 'Project Management'
+      - JIRA
+      - Kanban
+      - SQL
+      - MySQL
+      - DevOps
+      - Ant
+      - Maven
+      - GitFlow
+      - 'Gitlab CI'
+      - Artifactory
+      - Jenkins
+  -
+    name: 'SMA BTP - MOREP'
+    company: 'SMA BTP'
+    url: 'https://www.smabtp.fr/sma/assurance//'
+    position: 'Software Development Engineer'
+    website: 'https://cv.arnaudjoye.fr/fr/experience/morep'
+    startDate: '2015-10-01'
+    endDate: '2016-11-01'
+    summary: "##### Development and Enhancement of Financial Management Tools\n\nParticipated in the development and enhancement of innovative financial management tools within a collaborative team environment. Contributed to managing and upgrading existing systems to more advanced solutions. Specifically, our team worked on the MOREP reference tool for managing and reporting SMA financial statements, utilizing Spring for service delivery and AngularJS for data presentation."
+    highlights:
+      - 'Assisted in establishing the technical foundation using an internal framework'
+      - 'Contributed to the development of robust Spring web-services'
+      - 'Participated in creating user-friendly interfaces using AngularJS'
+      - 'Involved in user-requirement studies to improve software efficiency'
+      - 'Worked on seamless interactions with the database'
+      - 'Participated in release management activities'
+      - 'Assisted in the software''s production phase'
+      - 'Contributed to the writing of technical specifications'
+      - 'Participated in conducting unit testing to ensure software quality'
+      - 'Involved in software acceptance testing activities'
+      - 'Supported the team in providing continuous service'
+      - 'Engaged in technology monitoring to stay abreast of the latest trends'
+    keywords:
+      - 'Java 1.7'
+      - '1.8'
+      - Spring
+      - 'REST / JAXRS'
+      - 'SOAP / JAXWS'
+      - JPA
+      - Hibernate
+      - 'Jboss Wildfly'
+      - Maven
+      - JUnit
+      - JavaScript
+      - AngularJS
+      - ES6
+      - Webpack
+      - Bower
+      - 'Karma / Jasmine'
+      - SQL
+      - PostgresSQL
+publications:
+  -
+    name: 'OpenAI et n8n : le duo de choc de l''hyperautomatisation'
+    publisher: 'Personal Blog'
+    releaseDate: '2023-03-20'
+    url: 'https://cv.arnaudjoye.fr/fr/thought/open-ai-et-n8n-le-duo-de-choc-de-l-hyperautomatisation/'
+    summary: 'In this article, I discussed the powerful combination of OpenAI and n8n for hyperautomation. I highlighted how these tailored automation tools can be effectively utilized for blog writing and other tasks.'
+    fullReleaseDate:
+      year: 2023
+      month: 3
+      day: 20
+    website: 'https://cv.arnaudjoye.fr/fr/thought/open-ai-et-n8n-le-duo-de-choc-de-l-hyperautomatisation/'
+  -
+    name: 'Débloquer la puissance des APIs: Un guide de gestion et d''outils d''API'
+    publisher: 'Personal Blog'
+    releaseDate: '2023-03-15'
+    url: 'https://cv.arnaudjoye.fr/fr/thought/api-management-gestion-d-api/'
+    summary: 'In this publication, I explored the importance of API Management. Drawing an analogy with an orchestra''s maestro, I explained how API Management ensures that all APIs are properly configured and performing their assigned tasks efficiently.'
+    fullReleaseDate:
+      year: 2023
+      month: 3
+      day: 15
+    website: 'https://cv.arnaudjoye.fr/fr/thought/api-management-gestion-d-api/'
+education: []
+volunteer:
+  -
+    organization: 'Property Management Council'
+    position: 'Council President'
+    url: ""
+    startDate: '2020-07-01'
+    endDate: '2023-06-01'
+    summary: 'Led and oversaw the operations and management of a property, ensuring efficient operation and tenant satisfaction.'
+    highlights:
+      - 'Guided the decision-making process for property operations.'
+      - 'Liaised between property owners and tenants.'
+      - 'Managed conflict resolution and problem-solving.'
+    location: Paris
+    start:
+      year: 2020
+      month: 7
+    end:
+      year: 2023
+      month: 6
+    website: ""
+  -
+    organization: 'P.I.E.R - ESIEA''s Junior Enterprise'
+    position: 'Secretary General'
+    url: 'https://www.esiea.fr'
+    startDate: '2010-01-01'
+    endDate: '2011-01-01'
+    summary: 'Oversaw administrative functions of the organization, providing effective communication and organization.'
+    highlights:
+      - 'Managed meeting schedules, minutes, and correspondence.'
+      - 'Ensured smooth operations of the organization.'
+      - 'Contributed to strategic decision-making.'
+    location: Paris
+    start:
+      year: 2010
+      month: 1
+    end:
+      year: 2011
+      month: 6
+    website: 'https://www.esiea.fr'
+awards: []
+languages:
+  -
+    language: Français
+    fluency: Native
+  -
+    language: English
+    fluency: Fluent
+  -
+    language: Español
+    fluency: Basic
+interests:
+  -
+    name: Vélo
+    keywords:
+      - test
+references: []
+certificates:
+  -
+    name: 'MongoDB M101J - MongoDB for Java Developers'
+    issuer: 'MongoDB University'
+    date: '2013-05-01'
+    url: 'https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/8065034b-0697-5a66-8e6c-b5404fc9b163-arnaud-joye-02518ed4-b434-5cc2-9db7-99ff8a029da3-certificate.pdf'
+    summary: 'Earned a certificate in MongoDB for Java developers. Covered topics include setting up a MongoDB environment, CRUD operations, data modeling, and database management.'
+    fullDate:
+      year: 2013
+      month: 5
+      day: null
+    website: 'https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/8065034b-0697-5a66-8e6c-b5404fc9b163-arnaud-joye-02518ed4-b434-5cc2-9db7-99ff8a029da3-certificate.pdf'
+meta:
+  note: 'This is a combined version of the old and new JSON Resume API to provide maximum compatibility. You will notice duplicated values in different fields.'
+  canonical: 'https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json'
+  version: v1.0.0
+  lastModified: '2020-12-29T15:53:00'
+  format: FRESH@0.6.0

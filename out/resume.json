@@ -1,0 +1,250 @@
+{
+  "name": "Arnaud JOYE",
+  "info": {
+    "label": "SOAT",
+    "image": "https://avatars.githubusercontent.com/u/2255033?v=4",
+    "brief": "Ingénieur logiciel avec une expérience pratique approfondie dans tous les niveaux de test, je me plais à développer des applications sur tout support ainsi qu'à concevoir des API. Utilisateur convaincu de l'agilité et de \"clean architecture\" avec un intérêt récent pour les possibilités de Kubernetes."
+  },
+  "contact": {
+    "email": "",
+    "phone": "",
+    "website": "https://cv.arnaudjoye.fr"
+  },
+  "meta": {
+    "note": "This is a combined version of the old and new JSON Resume API to provide maximum compatibility. You will notice duplicated values in different fields.",
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2020-12-29T15:53:00",
+    "format": "FRESH@0.6.0"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Founder and Lead Software Developer",
+        "employer": "SCIPOVO®",
+        "summary": "##### Co-founded a technology startup focused on innovative service development\n\nLaunching two major projects: \n\n1. **Diet Management Service**: Targeted the European market. Led the development of a diet management application utilizing Open Food Facts data. The project commenced successfully but is currently on hiatus for additional industry regulation research and development resource acquisition.\n\n2. **B2B Tourism Time Slot Booking Service**: Aimed at the Central American market. Designed and developed a B2B tourism time slot booking service to assist business owners in maximizing utilization and boosting revenue by making their services accessible to freelancers.",
+        "current": true,
+        "start": "2022-10-09",
+        "end": "",
+        "url": "https://cv.arnaudjoye.fr/experience/startup-technology-company-innovative-service-development",
+        "keywords": [],
+        "highlights": [
+          "Strategically designed application architecture, optimizing costs and enhancing scalability for future growth",
+          "Spearheaded the development of robust backends and user-friendly frontends, enhancing overall system efficiency",
+          "Integrated data from Open Food Facts, enabling comprehensive diet management features",
+          "Championed API-centric application design to ensure optimal interoperability and flexibility",
+          "Adopted a product-centric approach, focusing on value delivery and customer satisfaction",
+          "Established and nurtured strategic partnerships with business owners and freelancers, expanding business reach and opportunities"
+        ]
+      },
+      {
+        "position": "Software Architect",
+        "employer": "OODRIVE",
+        "summary": "##### Support in the Architecture Repository & API management\n\nAs an integral part of Oodrive's architecture board, I acquired valuable insights into Domain-Driven Design (DDD) and Service-Oriented Architecture (SOA) through the Archimate platform. This facilitated our move towards a more streamlined microservices architecture.\n\nMy role encompassed leading the development of our new API policy with a focus on REST. Our team were responsible for creating a best practices guide to align with project needs, and ensured OpenAPI usage was consistent across teams. We identified and provided efficient software and hardware solutions to enhance the use and distribution of these APIs. As part of the transition process, our team was involved in offering practical migration solutions for these new systems.",
+        "start": "2021-09-01",
+        "end": "2022-09-01",
+        "url": "https://www.oodrive.com",
+        "keywords": [],
+        "highlights": [
+          "Successfully mapped and analyzed the existing technical and business infrastructure to align it with new strategic objectives",
+          "Initiated and implemented API best practices, conducting comprehensive workshops to train and equip teams with up-to-date knowledge",
+          "Conducted extensive POCs and benchmarks, evaluating potential API Management solutions for their cost-effectiveness and performance, to guide strategic decision-making"
+        ]
+      },
+      {
+        "position": "Software Development Engineer",
+        "employer": "OODRIVE",
+        "summary": "##### Realization of a rule engine & Zuora/Salesforce connector\n\nDrove the design and implementation of an automated rule engine, integrating Easy Rules and Spring Boot, to optimize process workflows. This initiative led to a tailored and efficient approach for implementing new processes between production and off-the-shelf Zuora/Salesforce solutions. My focus was on enhancing automated processes for upgrade (or upsale) validation by the billing department, significantly improving operational efficiency.",
+        "start": "2020-10-01",
+        "end": "2021-09-01",
+        "url": "https://www.oodrive.com",
+        "keywords": [],
+        "highlights": [
+          "Started the implementation of a technical base (rule engine), enhancing process automation",
+          "Designed robust APIs for enhanced interoperability",
+          "Authored comprehensive functional and technical requirements, improving project clarity and execution",
+          "Conducted unit, integration, and end-to-end functional tests to ensure software reliability and performance",
+          "Compiled detailed documentation to provide clear guidance and facilitate ongoing project support",
+          "Led project animation, fostering collaboration and ensuring project progression"
+        ]
+      },
+      {
+        "position": "Software Development Engineer",
+        "employer": "OODRIVE",
+        "summary": "##### Migration from an in-house billing system to an off-the-shelf solution\n\nUndertook a strategic initiative to transition from an in-house billing system to a streamlined off-the-shelf solution, Zuora. We conducted comprehensive workshops to understand the integration of legacy internal processes with operational and selected shelf solutions. This process culminated in the development of a custom connector and automation enhancements. Throughout this transition, I contributed to the provision of a containerized technical platform, reinforcing our system's scalability and efficiency.",
+        "start": "2020-01-01",
+        "end": "2021-09-01",
+        "url": " https://www.oodrive.com",
+        "keywords": [],
+        "highlights": [
+          "Formulated detailed functional and technical requirements, clarifying project scope and objectives",
+          "Created extensive documentation to provide clear instructions and support for ongoing projects",
+          "Drove project animation, facilitating collaboration and alignment with project goals",
+          "Implemented a robust technical platform, bolstering our system architecture",
+          "Designed comprehensive APIs, improving system integration and interoperability",
+          "Performed unit and integration testing, ensuring system reliability and performance"
+        ]
+      },
+      {
+        "position": "Full Stack Engineer",
+        "employer": "Société Générale BDDF / Crédit du Nord",
+        "summary": "##### Implementation of the ERPM application\n\nLed the development of a multi-platform ERPM application for Crédit du Nord's Digital Agency, aiming to optimize customer acquisition through professional advisors. This robust application, engineered to be compatible across desktop, web, and tablet platforms, represented a technological leap in customer relationship management. The ERPM application interfaced efficiently with the central system using a comprehensive suite of services within a Service-Oriented Architecture (SOA). We seamlessly integrated advanced features such as API-driven data interchange and platform-agnostic functionalities to ensure optimal performance. The successful implementation of this application significantly streamlined client acquisition processes, effectively boosting the agency's customer base and operational efficiency.",
+        "start": "2017-03-01",
+        "end": "2020-01-01",
+        "url": "https://www.credit-du-nord.fr/",
+        "keywords": [],
+        "highlights": [
+          "Guidance on technology selection and architectural design",
+          "Incorporated Code Review, Test-Driven Development (TDD) and Pair Programming practices to enhance code quality",
+          "Constructed REST APIs for Back For Front (BFF) operations",
+          "Integrated continuous deployment and delivery tools (Maven, Git, Jenkins, Nexus, Alien4Cloud, EKL stack)",
+          "Established a thorough testing suite encompassing unit tests, integration tests, and functional tests",
+          "Oversaw corrective and adaptive maintenance",
+          "Animating events of the complete Scrum lifecycle"
+        ]
+      },
+      {
+        "position": "Lead Developer",
+        "employer": "Mairie de Paris",
+        "summary": "##### Team Training & Best Practices Implementation\n\nDirected the transformation of a municipal management application, previously handled by an other team. In a collaborative effort with the business analysts, we overhauled the application's requirements and introduced a Kanban board for project tracking, facilitating greater transparency and efficiency. A crucial part of this process was the refactoring of the application based on code reviews and analysis. This, combined with a strong emphasis on pair programming, significantly elevated the skills and autonomy of team members, fostering a culture of continuous improvement and collective ownership.",
+        "start": "2016-12-01",
+        "end": "2017-03-03",
+        "keywords": [],
+        "highlights": [
+          "Realigned project objectives for optimal performance",
+          "Automated code review process to ensure high-quality code",
+          "Implemented robust CI/CD pipelines for efficient development cycles",
+          "Enhanced team skills and autonomy through focused training and pair programming",
+          "Integrated Agile Kanban practices for streamlined project management"
+        ]
+      },
+      {
+        "position": "Software Development Engineer",
+        "employer": "SMA BTP",
+        "summary": "##### Development and Enhancement of Financial Management Tools\n\nParticipated in the development and enhancement of innovative financial management tools within a collaborative team environment. Contributed to managing and upgrading existing systems to more advanced solutions. Specifically, our team worked on the MOREP reference tool for managing and reporting SMA financial statements, utilizing Spring for service delivery and AngularJS for data presentation.",
+        "start": "2015-10-01",
+        "end": "2016-11-01",
+        "url": "https://cv.arnaudjoye.fr/fr/experience/morep",
+        "keywords": [],
+        "highlights": [
+          "Assisted in establishing the technical foundation using an internal framework",
+          "Contributed to the development of robust Spring web-services",
+          "Participated in creating user-friendly interfaces using AngularJS",
+          "Involved in user-requirement studies to improve software efficiency",
+          "Worked on seamless interactions with the database",
+          "Participated in release management activities",
+          "Assisted in the software's production phase",
+          "Contributed to the writing of technical specifications",
+          "Participated in conducting unit testing to ensure software quality",
+          "Involved in software acceptance testing activities",
+          "Supported the team in providing continuous service",
+          "Engaged in technology monitoring to stay abreast of the latest trends"
+        ]
+      }
+    ]
+  },
+  "service": {
+    "history": [
+      {
+        "type": "volunteer",
+        "position": "Council President",
+        "organization": "Property Management Council",
+        "start": "2020-07-01",
+        "end": "2023-06-01",
+        "url": "",
+        "summary": "Led and oversaw the operations and management of a property, ensuring efficient operation and tenant satisfaction.",
+        "highlights": [
+          "Guided the decision-making process for property operations.",
+          "Liaised between property owners and tenants.",
+          "Managed conflict resolution and problem-solving."
+        ]
+      },
+      {
+        "type": "volunteer",
+        "position": "Secretary General",
+        "organization": "P.I.E.R - ESIEA's Junior Enterprise",
+        "start": "2010-01-01",
+        "end": "2011-01-01",
+        "url": "https://www.esiea.fr",
+        "summary": "Oversaw administrative functions of the organization, providing effective communication and organization.",
+        "highlights": [
+          "Managed meeting schedules, minutes, and correspondence.",
+          "Ensured smooth operations of the organization.",
+          "Contributed to strategic decision-making."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Java",
+        "level": "Advanced",
+        "skills": [
+          "Java11",
+          "Kotlin",
+          "Spring",
+          "Quarkus"
+        ]
+      },
+      {
+        "name": "Javascript",
+        "level": "Advanced",
+        "skills": []
+      }
+    ]
+  },
+  "writing": [
+    {
+      "title": "OpenAI et n8n : le duo de choc de l'hyperautomatisation",
+      "publisher": "Personal Blog",
+      "url": "https://cv.arnaudjoye.fr/fr/thought/open-ai-et-n8n-le-duo-de-choc-de-l-hyperautomatisation/",
+      "date": "2023-03-20",
+      "summary": "In this article, I discussed the powerful combination of OpenAI and n8n for hyperautomation. I highlighted how these tailored automation tools can be effectively utilized for blog writing and other tasks."
+    },
+    {
+      "title": "Débloquer la puissance des APIs: Un guide de gestion et d'outils d'API",
+      "publisher": "Personal Blog",
+      "url": "https://cv.arnaudjoye.fr/fr/thought/api-management-gestion-d-api/",
+      "date": "2023-03-15",
+      "summary": "In this publication, I explored the importance of API Management. Drawing an analogy with an orchestra's maestro, I explained how API Management ensures that all APIs are properly configured and performing their assigned tasks efficiently."
+    }
+  ],
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "url": "https://github.com/joyearnaud",
+      "user": "joyearnaud"
+    },
+    {
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/arnaud-joye/",
+      "user": "arnaud-joye"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Vélo",
+      "keywords": [
+        "test"
+      ]
+    }
+  ],
+  "testimonials": 0,
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Español",
+      "fluency": "Basic"
+    }
+  ]
+}
