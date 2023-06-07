@@ -44,6 +44,6 @@ jobs:
           npm install
       - name: hackmyresume
         run: |
-          hackmyresume build resume-full.json TO out/resume.all -t node_modules/jsonresume-theme-even
+          hackmyresume build resume-full.json TO out/resume.all -t node_modules/jsonresume-theme-kendall
           cp out/resume.html docs/index.html
       - uses: stefanzweifel/git-auto-commit-action@v4
