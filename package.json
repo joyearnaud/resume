@@ -1,5 +1,9 @@
 {
+  "engines": {
+    "node": ">=20.2.0"
+  },
   "dependencies": {
+    "graceful-fs": "^4.2.11",
     "hackmyresume": "1.8.0 ",
     "jsonresume-theme-even": "^0.18.1",
     "jsonresume-theme-kendall": "^0.2.0",
