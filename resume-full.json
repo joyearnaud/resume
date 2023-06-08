@@ -259,6 +259,7 @@
     {
       "name": "OODRIVE - Connect",
       "company": "OODRIVE",
+      "website": "https://www.oodrive.com",
       "location": "Paris",
       "description": "Software Architecture & API Management",
       "position": "Software Architect",
@@ -290,20 +291,12 @@
         "Gitlab CI",
         "Postman",
         "JMeter"
-      ],
-      "start": {
-        "year": 2021,
-        "month": 9
-      },
-      "end": {
-        "year": 2022,
-        "month": 9
-      },
-      "website": "https://www.oodrive.com"
+      ]
     },
     {
       "name": "OODRIVE - Arrimage à la production",
       "company": "OODRIVE",
+      "website": "https://www.oodrive.com",
       "location": "Paris",
       "description": "",
       "position": "Software Development Engineer",
@@ -339,20 +332,12 @@
         "GitFlow",
         "Jenkins",
         "Nexus"
-      ],
-      "start": {
-        "year": 2020,
-        "month": 10
-      },
-      "end": {
-        "year": 2021,
-        "month": 9
-      },
-      "website": "https://www.oodrive.com"
+      ]
     },
     {
       "name": "OODRIVE - HERMES",
       "company": "OODRIVE",
+      "website": " https://www.oodrive.com",
       "location": "Paris",
       "description": "",
       "position": "Software Development Engineer",
@@ -392,24 +377,16 @@
         "JetBrain Exposed",
         "DevOps",
         "GitFlow"
-      ],
-      "start": {
-        "year": 2020,
-        "month": 1
-      },
-      "end": {
-        "year": 2021,
-        "month": 9
-      },
-      "website": " https://www.oodrive.com"
+      ]
     },
     {
       "name": "Société Générale BDDF - Entrée en relation personne morale (ERPM) pour le Crédit du Nord",
       "company": "Société Générale BDDF / Crédit du Nord",
+      "website": "https://www.credit-du-nord.fr",
       "location": "Paris",
       "description": "",
       "position": "Full Stack Engineer",
-      "url": "https://www.credit-du-nord.fr/",
+      "url": "https://www.credit-du-nord.fr",
       "startDate": "2017-03-01",
       "endDate": "2020-01-01",
       "summary": "##### Implementation of the ERPM application\n\nLed the development of a multi-platform ERPM application for Crédit du Nord's Digital Agency, aiming to optimize customer acquisition through professional advisors. This robust application, engineered to be compatible across desktop, web, and tablet platforms, represented a technological leap in customer relationship management. The ERPM application interfaced efficiently with the central system using a comprehensive suite of services within a Service-Oriented Architecture (SOA). We seamlessly integrated advanced features such as API-driven data interchange and platform-agnostic functionalities to ensure optimal performance. The successful implementation of this application significantly streamlined client acquisition processes, effectively boosting the agency's customer base and operational efficiency.",
@@ -470,21 +447,12 @@
         "Jenkins",
         "Nexus",
         "IBM API Connect"
-      ],
-      "start": {
-        "year": 2017,
-        "month": 3
-      },
-      "end": {
-        "year": 2020,
-        "month": 1
-      },
-      "website": "https://www.credit-du-nord.fr/"
+      ]
     },
     {
       "name": "Mairie de Paris - Equipe transverse à la DSIN",
       "company": "Mairie de Paris",
-      "url": "https://www.paris.fr/",
+      "url": "https://www.paris.fr",
       "position": "Lead Developer",
       "startDate": "2016-12-01",
       "endDate": "2017-03-03",
@@ -535,7 +503,7 @@
     {
       "name": "SMA BTP - MOREP",
       "company": "SMA BTP",
-      "url": "https://www.smabtp.fr/sma/assurance//",
+      "url": "https://www.smabtp.fr",
       "position": "Software Development Engineer",
       "website": "https://cv.arnaudjoye.fr/fr/experience/morep",
       "startDate": "2015-10-01",
@@ -574,6 +542,117 @@
         "Karma / Jasmine",
         "SQL",
         "PostgresSQL"
+      ]
+    },
+    {
+      "name": "Eutelsat S.A. - Media",
+      "company": "Eutelsat S.A.",
+      "url": "https://www.eutelsat.com",
+      "position": "Software Development Engineer",
+      "startDate": "2015-06-01",
+      "endDate": "2015-08-01",
+      "summary": "Participated in a dynamic team where we designed and implemented essential services enabling media communication via satellite teletransmission interfaces. Contributed to the development of Mule ESB RESTful web services for client-satellite interfacing. Worked on the development of interactive Java modules as part of the project's objectives. Collaboratively wrote detailed technical specifications, enhancing project documentation. Actively engaged in client demos and sprint planning, fostering alignment with client needs and project timelines.",
+      "highlights": [
+        "Established the technical foundation for the project",
+        "Developed SOAP web services to enhance system interoperability",
+        "Implemented ESB Mule web services for robust system integration",
+        "Managed database interactions ensuring data integrity",
+        "Developed new modules driving project progress",
+        "Participated in client demos and sprint planning, ensuring alignment with client needs",
+        "Oversaw release management to ensure smooth deployments",
+        "Coordinated production deployments ensuring system stability",
+        "Authored technical specifications providing clear project documentation",
+        "Maintained system improvements and corrections ensuring optimal performance",
+        "Implemented unit tests and TDD to uphold code quality",
+        "Provided support to enhance team productivity",
+        "Performed technology surveillance to stay abreast of industry trends"
+      ],
+      "keywords": [
+        "Java 1.6",
+        "SOAP",
+        "JAXWS",
+        "ESB Mule",
+        "DevOps",
+        "Git",
+        "SVN",
+        "Ant",
+        "Jenkins",
+        "Artifactory",
+        "SPLUNK"
+      ]
+    },
+    {
+      "name": "Société Générale BDDF - Portiques",
+      "company": "Société Générale BDDF",
+      "url": "https://particuliers.sg.fr",
+      "position": "Software Development Engineer",
+      "startDate": "2013-06-01",
+      "endDate": "2015-06-01",
+      "summary": "Participated in the enhancement and management of Société Générale's portal for associations, individuals, professionals, and businesses stakeholders. Assisted in developing tools for new transfer types and worked on the maintenance and migration of application portals for compatibility with Weblogic 11g.",
+      "highlights": [
+        "Conducted comprehensive user needs analysis",
+        "Authored technical specifications and documentation",
+        "Led user interface design and prototyping",
+        "Developed Web Services using Spring",
+        "Managed database interactions, including MCD and queries",
+        "Developed and managed components for the Vignette CMS",
+        "Developed user interfaces with jQuery",
+        "Conducted unit testing to ensure quality of deliverables",
+        "Oversaw release management activities",
+        "Coordinated production deployment",
+        "Managed both corrective and evolutionary maintenance",
+        "Led the acceptance testing phase",
+        "Leveraged Unix and Linux environments",
+        "Provided technical support"
+      ],
+      "keywords": [
+        "Java 1.6",
+        "Java 1.7",
+        "Spring MVC",
+        "Spring Batch",
+        "REST",
+        "JAXRS",
+        "SOAP",
+        "JAXWS",
+        "JPA",
+        "Hibernate",
+        "Oracle Weblogic 11G",
+        "JavaScript ES5",
+        "Apache Flex",
+        "JQuery",
+        "Adobe Flash",
+        "Opentext Vignette",
+        "Project Management",
+        "JIRA",
+        "Scrum",
+        "HP Quality Center",
+        "SQL",
+        "Oracle Database",
+        "DevOps",
+        "SVN",
+        "Git",
+        "Maven",
+        "Jenkins",
+        "SSH",
+        "BASH"
+      ]
+    },
+    {
+      "name": "Infotel - Equipe R&D",
+      "position": "Software Development Engineer, Intern",
+      "startDate": "2012-04-01",
+      "endDate": "2012-11-01",
+      "summary": "As a Software Development Engineer Intern at Infotel, I spearheaded the conceptualization and development of innovative applications. My work included designing a comprehensive account management application for CROUS and a collaborative internal social network for Infotel.",
+      "highlights": [
+        "Assisted in technical studies for application development",
+        "Worked with hybrid mobile technology using Phonegap and SenchaTouch",
+        "Contributed to the development of a proof of concept (POC) for mobile and desktop solutions",
+        "Supported database interactions",
+        "Helped in setting up SOAP services",
+        "Participated in product deployment",
+        "Assisted in creating technical and functional documentation, including user manuals for clients",
+        "Participated in corrective and progressive maintenance",
+        "Provided support to customers"
       ]
     }
   ],
