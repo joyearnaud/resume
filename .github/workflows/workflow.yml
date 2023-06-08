@@ -35,6 +35,7 @@ jobs:
       - name: clean all
         run: | 
           rm -rf node_modules
+          npm cache clean --force
           rm -rf out
           rm -rf docs
           mkdir -p out
@@ -42,7 +43,7 @@ jobs:
       - name: npm install
         run: |
           npm install
-          npm install hackmyresume@1.8.0  -g
+          npm install -g hackmyresume@1.8.0 phantomjs@latest puppeteer@latest
       - name: hackmyresume
         run: |
           sh generate-resume.sh -d out_local -f resume -t node_modules/jsonresume-theme-kendall
