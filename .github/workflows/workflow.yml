@@ -43,7 +43,7 @@ jobs:
       - name: npm install
         run: |
           npm install
-          npm install -g hackmyresume@1.8.0 phantomjs@latest puppeteer@latest
+          npm install -g hackmyresume@1.8.0 puppeteer
       - name: hackmyresume
         run: |
           sh generate-resume.sh -d out -f resume -t node_modules/jsonresume-theme-kendall
