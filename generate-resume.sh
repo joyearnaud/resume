@@ -7,8 +7,8 @@ do
     esac
 done
 
-hackmyresume build resume-full.json TO $directory/$file.html -t $theme
-hackmyresume build resume-full.json TO $directory/$file.md -t $theme
-hackmyresume build resume-full.json TO $directory/$file.png -t $theme
-cp $directory/$file.html docs/index.html
+hackmyresume build $file TO $directory/resume.html -t $theme
+hackmyresume build $file TO $directory/resume.md -t $theme
+hackmyresume build $file TO $directory/resume.png -t $theme
+cp $directory/resume.html docs/index.html
 node generate-pdf.js

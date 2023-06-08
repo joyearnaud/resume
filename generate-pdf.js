@@ -6,7 +6,7 @@ const filePath = path.resolve(__dirname, './docs/index.html');
   const page = await browser.newPage();
   await page.goto(`file:///${filePath}`);
   await page.pdf({
-    path: "out/CV.pdf",
+    path: "out/resume.pdf",
     format: "A4",
     printBackground: true,
     displayHeaderFooter: false,
