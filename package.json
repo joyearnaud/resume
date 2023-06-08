@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "hackmyresume": "1.8.0 ",
+    "jsonresume-theme-eloquent-mod": "^4.24.0",
     "jsonresume-theme-even": "^0.18.1",
     "jsonresume-theme-kendall": "^0.2.0",
     "puppeteer": "^20.5.0"

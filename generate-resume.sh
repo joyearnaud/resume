@@ -8,7 +8,6 @@ do
 done
 
 hackmyresume build $file TO $directory/resume.html -t $theme
-hackmyresume build $file TO $directory/resume.md -t $theme
-hackmyresume build $file TO $directory/resume.png -t $theme
+hackmyresume build $file TO $directory/resume.md $directory/resume.png
 cp $directory/resume.html docs/index.html
 node generate-pdf.js
