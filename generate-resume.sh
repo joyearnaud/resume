@@ -7,6 +7,8 @@ do
     esac
 done
 
-hackmyresume build resume-full.json TO $directory/$file.all --pdf phantom -t $theme
+hackmyresume build resume-full.json TO $directory/$file.html -t $theme
+hackmyresume build resume-full.json TO $directory/$file.md -t $theme
+hackmyresume build resume-full.json TO $directory/$file.png -t $theme
 cp $directory/$file.html docs/index.html
 node generate-pdf.js

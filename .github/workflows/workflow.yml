@@ -46,7 +46,7 @@ jobs:
           npm install -g hackmyresume@1.8.0 phantomjs@latest puppeteer@latest
       - name: hackmyresume
         run: |
-          sh generate-resume.sh -d out_local -f resume -t node_modules/jsonresume-theme-kendall
+          sh generate-resume.sh -d out -f resume -t node_modules/jsonresume-theme-kendall
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Resume Generated
