@@ -123,8 +123,8 @@ Oversaw administrative functions of the organization, providing effective commun
 
 ## INTERESTS
 
-- [BI | MOTOR] CYCLING: Gravel / Mountain-bike Roadtrip/Bikepacking 
+- [BI | MOTOR]•CYCLING: Gravel / Mountain-bike Roadtrip/Bikepacking 
 
-- [CINEMATO | PHOTO] GRAPHY: Wedding / Phototrekking Camera geek 
+- [CINEMATO | PHOTO]•GRAPHY: Wedding / Phototrekking Camera geek 
 
 
