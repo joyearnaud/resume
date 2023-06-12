@@ -46,7 +46,7 @@ jobs:
           npm install -g hackmyresume@1.8.0 puppeteer
       - name: hackmyresume
         run: |
-          sh generate-resume.sh -d out -f resume-full.json -t node_modules/jsonresume-theme-eloquent-mod
+          sh generate-resume.sh -d out -f resume-onepage.json -t node_modules/jsonresume-theme-short
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Resume Generated
