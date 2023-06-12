@@ -14,7 +14,7 @@ const filePath = path.resolve(__dirname, directory + '/resume.html');
     printBackground: true,
     displayHeaderFooter: false,
     margin: {
-      top: "8mm",
+      top: "4mm",
       bottom: "8mm",
       left: "0mm",
       right: "0mm"
