@@ -9,7 +9,11 @@ As a seasoned software engineer, I specialize in comprehensive testing and appli
 ## SKILLS
 
   - Java: Java11 Kotlin Spring Quarkus 
-  - Javascript: Angular Vue Node.JS TypeScript 
+  - Javascript: ES2022 TypeScript Angular Vue Node.JS 
+  - Testing: JUnit Mockito Karma / Jasmine Jest Cucumber 
+  - DevOps: Maven NPM Docker Kubernetes Jenkins GitHub Actions / Gitlab CI 
+  - Craftmanship: TDD Pair programming Peer Review Scrum 
+  - Architecture: Service-Oriented Architecture Domain-Driven Design API Management 
 
 ## EMPLOYMENT
 
@@ -119,10 +123,8 @@ Oversaw administrative functions of the organization, providing effective commun
 
 ## INTERESTS
 
-- BICYCLING: Gravel Mountain-bike Bikepacking 
+- [BI | MOTOR] CYCLING: Gravel Mountain-bike Roadtrip/Bikepacking 
 
-- MOTORCYCLING
-
-- PHOTO: Wedding Phototrekking Camera geek 
+- [CINEMATO | PHOTO] GRAPHY: Wedding Phototrekking Camera geek 
 
 
