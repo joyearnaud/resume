@@ -34,35 +34,35 @@ Served in 3 teams, participating in architecture decision, enhancing API managem
   - Create automated processes for upsale validation, improving operational efficiency for the billing department
   - Contributed to the provision of a containerized technical platform, bolstering system scalability
 
-### *Full Stack Engineer*, Société Générale BDDF / Crédit du Nord (2017-03 — 2020-01)
+### *Full Stack Engineer*, [Société Générale BDDF / Crédit du Nord](https://www.credit-du-nord.fr) (2017-03 — 2020-01)
 
 Participated in the development of a robust, multi-platform application named ERPM for Crédit du Nord's Digital Agency to optimize customer acquisition. The application, leveraging features like API-driven data interchange, improved client management by interfacing with the central system through a SOA.
   - Guidance on technology selection, development of an multi-platform app, corrective and adaptive maintenance
   - Integrated deployment tools (Maven, Git, Jenkins, Nexus, Alien4Cloud, EKL stack) and REST APIs for BFF operations.
   - Managed Scrum lifecycle events and maintained software quality with testing, code review and pair-programming practices.
 
-### *Lead Developer*, Mairie de Paris (2016-12 — 2017-03)
+### *Lead Developer*, [Mairie de Paris](https://www.paris.fr) (2016-12 — 2017-03)
 
 Directed the overhaul of a municipal management application, improving transparency, efficiency, and team skills with Kanban and pair programming practices.
   - Revamped project objectives and automated code review for quality assurance
   - Implemented CI/CD pipelines for efficient development cycles
   - Boosted team skills and autonomy using Agile Kanban and pair programming
 
-### *Software Development Engineer*, [SMA BTP](https://cv.arnaudjoye.fr/fr/experience/morep) (2015-10 — 2016-11)
+### *Software Development Engineer*, [SMA BTP](https://www.smabtp.fr) (2015-10 — 2016-11)
 
 Worked as a Software Development Engineer at SMA BTP, where I contributed to developing and improving financial management tools. Our key project was the MOREP reference tool for SMA's financial statements, utilizing Spring and AngularJS.
   - Assisted in establishing the technical foundation and developing robust Spring web-services
   - Participated in creating AngularJS interfaces and conducting user-requirement studies
   - Worked on database interactions and participated in release management activities
 
-### *Software Development Engineer*, Eutelsat S.A. (2015-06 — 2015-08)
+### *Software Development Engineer*, [Eutelsat S.A.](https://www.eutelsat.com) (2015-06 — 2015-08)
 
 Worked in a team to design and implement satellite telecommunication services. Participed in Mule ESB RESTful web services and Java modules development.
   - Assisted in laying down the project's technical groundwork and developing basic web services
   - Helped manage database interactions and participated in the development of new modules
   - Involved in client demos, sprint planning, and contribution to technical documentation
 
-### *Software Development Engineer*, Société Générale BDDF (2013-06 — 2015-06)
+### *Software Development Engineer*, [Société Générale BDDF](https://particuliers.sg.fr) (2013-06 — 2015-06)
 
 Participated in the enhancement and management of Société Générale's portal for associations, individuals, professionals, and businesses stakeholders. Assisted in developing tools for new transfer types and worked on the maintenance and migration of application portals for compatibility with Weblogic 11g.
   - Executed user needs analysis and UI design
@@ -70,7 +70,7 @@ Participated in the enhancement and management of Société Générale's portal 
   - Led unit testing and release management activities
   - Handled production deployment and technical support
 
-### *Software Development Engineer, Intern*,  (2012-04 — 2012-11)
+### *Software Development Engineer, Intern*, [Infotel](https://infotel.com) (2012-04 — 2012-11)
 
 As a Software Development Engineer Intern at Infotel, I spearheaded the conceptualization and development of innovative applications. My work included designing a comprehensive account management application for CROUS and a collaborative internal social network for Infotel.
   - Assisted in technical studies and setup SOAP services for app development
