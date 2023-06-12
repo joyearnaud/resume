@@ -49,13 +49,64 @@
       "name": "Javascript",
       "level": "Advanced",
       "keywords": [
+        "ES2022",
+        "TypeScript",
         "Angular",
         "Vue",
-        "Node.JS",
-        "TypeScript"
+        "Node.JS"
       ],
       "rating": 4,
       "yearsOfExperience": 8
+    },
+    {
+      "name": "Testing",
+      "level": "Advanced",
+      "keywords": [
+        "JUnit",
+        "Mockito",
+        "Karma / Jasmine",
+        "Jest",
+        "Cucumber"
+      ],
+      "rating": 4,
+      "yearsOfExperience": 8
+    },
+    {
+      "name": "DevOps",
+      "level": "Advocate",
+      "keywords": [
+        "Maven",
+        "NPM",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "GitHub Actions / Gitlab CI"
+      ],
+      "rating": 2,
+      "yearsOfExperience": 8
+    },
+    {
+      "name": "Craftmanship",
+      "level": "Advocate",
+      "keywords": [
+        "TDD",
+        "Pair programming",
+        "Peer Review",
+        "Scrum"
+      ],
+      "rating": 2,
+      "yearsOfExperience": 6
+    },
+    {
+      "name": "Architecture",
+      "level": "Novice",
+      "keywords": [
+        "Service-Oriented Architecture",
+        "Domain-Driven Design",
+        "API Management"
+      ],
+      "rating": 1,
+      "yearsOfExperience": 4
     }
   ],
   "projects": [
@@ -662,26 +713,19 @@
     {
       "language": "English",
       "fluency": "Fluent"
-    },
-    {
-      "language": "Español",
-      "fluency": "Basic"
     }
   ],
   "interests": [
     {
-      "name": "Bicycling",
+      "name": "[Bi | Motor] cycling",
       "keywords": [
         "Gravel",
         "Mountain-bike",
-        "Bikepacking"
+        "Roadtrip/Bikepacking"
       ]
     },
     {
-      "name": "Motorcycling"
-    },
-    {
-      "name": "Photo",
+      "name": "[Cinemato | Photo] graphy",
       "keywords": [
         "Wedding",
         "Phototrekking",

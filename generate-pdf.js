@@ -14,10 +14,10 @@ const filePath = path.resolve(__dirname, directory + '/resume.html');
     printBackground: true,
     displayHeaderFooter: false,
     margin: {
-      top: "0mm",
+      top: "8mm",
+      bottom: "8mm",
       left: "0mm",
-      right: "0mm",
-      bottom: "0mm"
+      right: "0mm"
     }
   });
    await browser.close();
