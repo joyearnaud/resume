@@ -254,13 +254,14 @@
   "work": [
     {
       "name": "SCIPOVO - Service Development",
-      "description": "Co-founded a technology startup focused on innovative service development",
       "isCurrentRole": true,
       "company": "SCIPOVO",
       "position": "Founder and Lead Software Developer",
+      "url": "",
       "website": "",
       "startDate": "2022-10-09",
       "endDate": "",
+      "description": "Co-founded a technology startup focused on innovative service development",
       "summary": "Co-founded SCIPOVO, a tech startup focusing on innovative service development including a diet management app for Europe and a B2B time slot booking service for Central America.",
       "highlights": [
         "Optimized application architecture for cost efficiency and future scalability, with a focus on API-centric design",
@@ -395,11 +396,12 @@
     {
       "name": "Société Générale BDDF - ERPM",
       "company": "Société Générale BDDF / Crédit du Nord",
+      "position": "Full Stack Engineer",
       "url": "https://www.credit-du-nord.fr",
       "website": "https://www.credit-du-nord.fr",
-      "position": "Full Stack Engineer",
       "startDate": "2017-03-01",
       "endDate": "2020-01-01",
+      "description": "Implementation of the ERPM application",
       "summary": "Participated in the development of a robust, multi-platform application named ERPM for Crédit du Nord's Digital Agency to optimize customer acquisition. The application, leveraging features like API-driven data interchange, improved client management by interfacing with the central system through a SOA.",
       "highlights": [
         "Guidance on technology selection, development of an multi-platform app, corrective and adaptive maintenance",
@@ -458,13 +460,13 @@
     },
     {
       "name": "Mairie de Paris - Equipe transverse à la DSIN",
-      "description": "Team Training & Best Practices Implementation",
       "company": "Mairie de Paris",
+      "position": "Lead Developer",
       "url": "https://www.paris.fr",
       "website": "https://www.paris.fr",
-      "position": "Lead Developer",
       "startDate": "2016-12-01",
       "endDate": "2017-03-03",
+      "description": "Team Training & Best Practices Implementation",
       "summary": "Directed the overhaul of a municipal management application, improving transparency, efficiency, and team skills with Kanban and pair programming practices.",
       "highlights": [
         "Revamped project objectives and automated code review for quality assurance",
@@ -510,11 +512,12 @@
     {
       "name": "SMA BTP - MOREP",
       "company": "SMA BTP",
+      "position": "Software Development Engineer",
       "url": "https://www.smabtp.fr",
       "website": "https://www.smabtp.fr",
-      "position": "Software Development Engineer",
       "startDate": "2015-10-01",
       "endDate": "2016-11-01",
+      "description": "Design and development of financial management tools",
       "summary": "Worked as a Software Development Engineer at SMA BTP, where I contributed to developing and improving financial management tools. Our key project was the MOREP reference tool for SMA's financial statements, utilizing Spring and AngularJS.",
       "highlights": [
         "Assisted in establishing the technical foundation and developing robust Spring web-services",
@@ -545,11 +548,12 @@
     {
       "name": "Eutelsat S.A. - Media",
       "company": "Eutelsat S.A.",
+      "position": "Software Development Engineer",
       "url": "https://www.eutelsat.com",
       "website": "https://www.eutelsat.com",
-      "position": "Software Development Engineer",
       "startDate": "2015-06-01",
       "endDate": "2015-08-01",
+      "description": "Design and development of services for media communication to satellite transmission interfaces",
       "summary": "Worked in a team to design and implement satellite telecommunication services. Participed in Mule ESB RESTful web services and Java modules development.",
       "highlights": [
         "Assisted in laying down the project's technical groundwork and developing basic web services",
@@ -573,11 +577,12 @@
     {
       "name": "Société Générale BDDF - Portiques",
       "company": "Société Générale BDDF",
+      "position": "Software Development Engineer",
       "url": "https://particuliers.sg.fr",
       "website": "https://particuliers.sg.fr",
-      "position": "Software Development Engineer",
       "startDate": "2013-06-01",
       "endDate": "2015-06-01",
+      "description": "Management of the association portal for individuals, professionals, and businesses.",
       "summary": "Participated in the enhancement and management of Société Générale's portal for associations, individuals, professionals, and businesses stakeholders. Assisted in developing tools for new transfer types and worked on the maintenance and migration of application portals for compatibility with Weblogic 11g.",
       "highlights": [
         "Executed user needs analysis and UI design",
@@ -620,11 +625,12 @@
     {
       "name": "Infotel - Equipe R&D",
       "company": "Infotel",
+      "position": "Software Development Engineer, Intern",
       "url": "https://infotel.com",
       "website": "https://infotel.com",
-      "position": "Software Development Engineer, Intern",
       "startDate": "2012-04-01",
       "endDate": "2012-11-01",
+      "description": "Design and development of applications",
       "summary": "As a Software Development Engineer Intern at Infotel, I spearheaded the conceptualization and development of innovative applications. My work included designing a comprehensive account management application for CROUS and a collaborative internal social network for Infotel.",
       "highlights": [
         "Assisted in technical studies and setup SOAP services for app development",
